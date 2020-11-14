@@ -9,7 +9,7 @@ func calificacionPromedio(materiaUno:Double,materiaDos:Double,materiaTres:Double
     
 }
 
-let miCalificacionPromedioMaterias = calificacionPromedio(materiaUno: 81, materiaDos: 41, materiaTres: 60)
+let miCalificacionPromedioMaterias = calificacionPromedio(materiaUno: 81, materiaDos: 41, materiaTres: 90)
 
 print(miCalificacionPromedioMaterias)
 
