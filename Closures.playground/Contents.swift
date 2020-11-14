@@ -19,4 +19,4 @@ let miPrimerClosure = {
 }
 
 
-miPrimerClosure(100,22,88)
+print(miPrimerClosure(100,22,88))
